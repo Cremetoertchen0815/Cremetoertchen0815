@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cremetoertchen0815
-- 👀 I’m interested in coding(duh) and producing music!
-- 🌱 I’m currently learning to code in Assembler and improving my skills in C#!
+- 👀 I’m interested in coding(duh) and producing music
+- 🌱 I’m currently studying applied computer science
 - 📫 You can reach me via Mail or via Instagram DM!
 
 <!---
